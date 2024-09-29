@@ -1,0 +1,7 @@
+# Ignore data directory
+data/
+myenv/
+.streamlit/
+
+# Ignore .env file
+.env
